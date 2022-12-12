@@ -1,0 +1,37 @@
+body {background-color: rgb(184, 207, 250);}
+
+img {width: 300px}
+
+article {
+    border-style: solid;
+    border-radius: 5px;
+    margin: 20px;
+    padding: 20px;
+}
+
+h3 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+header {
+    text-align: center;
+}
+
+a:hover {
+    color: rgb(44, 214, 1);
+  }
+
+  a:visited {
+    color: blueviolet
+  }
+
+  div {
+    width: 500px;
+  }
+
